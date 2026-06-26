@@ -40,8 +40,8 @@
     <style>
         :root {
             /* ====== UBAH WARNA TEMA DI SINI ====== */
-            --theme-bg: #FF4400;
-            --theme-hover: #de3d02;
+            --theme-bg: #000080;
+            --theme-hover: #020260;
             /* warna lebih gelap untuk efek hover */
             --theme-text: #ffffff;
             --main-bg: #eeeeee;
@@ -158,7 +158,7 @@
         .sidebar-nav .nav-content a.active {
             color: var(--theme-bg) !important;
         }
-        
+
         .sidebar-nav .nav-content a.active i {
             background-color: var(--theme-bg) !important;
         }
